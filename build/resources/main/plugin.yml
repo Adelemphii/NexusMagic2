@@ -1,8 +1,0 @@
-name: NexusMagic
-version: '1.0'
-main: me.adelemphii.nexusmagic.NexusMagic
-api-version: '1.21'
-
-commands:
-  cast:
-    permission: nexusmagic.cast
